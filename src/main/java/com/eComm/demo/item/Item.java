@@ -1,12 +1,10 @@
 package com.eComm.demo.item;
 
-import com.sun.org.apache.xpath.internal.operations.Or;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import java.util.List;
 
 @Entity
 public class Item {
